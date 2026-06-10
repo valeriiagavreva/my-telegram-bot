@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
 # ---------- НАСТРОЙКИ (укажите свои) ----------
-BOT_TOKEN = "ВАШ_ТОКЕН_ОТ_BOTFATHER"          # получить у @BotFather
+BOT_TOKEN = "8906719433:AAHsjj0c1JxGwheqHH4-J0pr0sOlPEwPSqw"          # получить у @BotFather
 ADMIN_CHAT_ID = -1001234567890                # ID вашей закрытой группы (с минусом)
 # ---------------------------------------------
 
